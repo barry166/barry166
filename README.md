@@ -1,6 +1,8 @@
 ### 你好，我是加一 👋
 
-🎨 我是一名前端和全栈工程师，擅长低代码、AI Agent应用等领域。
+🎨 我是一名前端和全栈工程师
+
+擅长：🏗️ 低代码平台架构 | 🤖 AI Agent工程化 | 🚀 前端工具链建设
 
 🌐 涉猎广泛，偶尔捣鼓工具开发。
 
@@ -13,6 +15,7 @@
 - **邮箱**: [mailto:solkatt.one@gmail.com]
 
 ### 我的项目:
+- **[AI简历编辑器](https://i-resume.cn)**:  AI驱动的低代码简历编辑器，支持多种模版和主题配色，快速生成专业简历，已接入最新DeepSeek大模型
 - **[大模型Agent实战指南](https://barrys-organization-4.gitbook.io/agent)**:  大模型Agent应用开发的专栏，连载中。。。
 - **[博客](https://solkatt.vip/)**:  一个静态部署的博客
 
