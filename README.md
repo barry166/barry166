@@ -15,9 +15,11 @@
 - **邮箱**: [mailto:solkatt.one@gmail.com]
 
 ### 我的项目:
-- **[AI简历编辑器](https://i-resume.cn)**:  AI驱动的低代码简历编辑器，支持多种模版和主题配色，快速生成专业简历，已接入最新DeepSeek大模型
-- **[大模型Agent实战指南](https://barrys-organization-4.gitbook.io/agent)**:  大模型Agent应用开发的专栏，连载中。。。
-- **[博客](https://solkatt.vip/)**:  一个静态部署的博客
+
+- <a href="https://i-resume.cn" target="_blank" rel="noopener noreferrer">AI简历编辑器</a>: AI驱动的低代码简历编辑器，支持多种模版和主题配色，快速生成专业简历，已接入最新DeepSeek大模型
+- <a href="https://barrys-organization-4.gitbook.io/agent" target="_blank" rel="noopener noreferrer">大模型Agent实战指南</a>: 大模型Agent应用开发的专栏，连载中。。。
+- <a href="https://solkatt.vip/" target="_blank" rel="noopener noreferrer">博客</a>: 一个静态部署的博客
+
 
 ### 🛠 我的技术栈:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white)
