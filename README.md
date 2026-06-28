@@ -14,10 +14,12 @@
 
 近期已合并贡献：
 
-- [mem0](https://github.com/mem0ai/mem0/pull/5858) · 59k+ stars
+<!-- OSS:START -->
+- [mem0](https://github.com/mem0ai/mem0/pull/5858) · 59.6k stars
+- [Presenton](https://github.com/presenton/presenton/pull/672) · 8.5k stars
+- [CubeSandbox](https://github.com/TencentCloud/CubeSandbox/pull/560) · 6.5k stars
 - [fastify-cors](https://github.com/fastify/fastify-cors/pull/410) · Fastify ecosystem
-- [Presenton](https://github.com/presenton/presenton/pull/672) · 8.5k+ stars
-- [CubeSandbox](https://github.com/TencentCloud/CubeSandbox/pull/560) · 6.5k+ stars
+<!-- OSS:END -->
 
 <details>
 <summary>English</summary>
