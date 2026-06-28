@@ -1,4 +1,4 @@
-# 你好，我是 Barry
+# Hello I'm Barry
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=0969DA&width=560&lines=AI+Agent+Engineering;Developer+Tools;Frontend+%2F+Full-stack;Open+Source+Contributor)](https://git.io/typing-svg)
 
