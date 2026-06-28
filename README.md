@@ -2,9 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=0969DA&width=560&lines=AI+Agent+Engineering;Developer+Tools;Frontend+%2F+Full-stack;Open+Source+Contributor)](https://git.io/typing-svg)
 
-前端 / AI 全栈工程师，AI 先行者，开源社区贡献者。
+前端 / AI 全栈工程师，探索 AI-first 开发、Vibe Coding、Agent 工程化与开源实践。
 
-[从零实现 Harness Agent](https://solkatt.me/) 是我的 AI Agent 工程化系列；[tiny-claw](https://github.com/barry166/tiny-claw) 是配套沉淀出的可读 Python Agent Harness。更多写作在 [博客](https://solkatt.me/)。
+[从零实现 Harness Agent](https://solkatt.me/)：Agent 工程化系列文章。
+
+[tiny-claw](https://github.com/barry166/tiny-claw)：极简 Python Agent Harness。
+
+[博客](https://solkatt.me/)：记录 AI 编程工作流、Agent 实践、前端工程化和开源贡献。
 
 ## Open Source
 
@@ -18,8 +22,8 @@
 <details>
 <summary>English</summary>
 
-Frontend / AI full-stack engineer, AI-first builder, and open-source contributor.
+Frontend / AI full-stack engineer exploring AI-first development, vibe coding, agent engineering, and open-source practice.
 
-[Building a Harness Agent from Scratch](https://solkatt.me/) is my AI Agent engineering series. [tiny-claw](https://github.com/barry166/tiny-claw) is the readable Python Agent Harness distilled from that work. More writing lives on my [blog](https://solkatt.me/).
+[Building a Harness Agent from Scratch](https://solkatt.me/) is my agent engineering series. [tiny-claw](https://github.com/barry166/tiny-claw) is a minimal Python Agent Harness. More writing lives on my [blog](https://solkatt.me/).
 
 </details>
