@@ -59,7 +59,7 @@ async function githubGraphql(searchQuery) {
 
 function starLabel(stars, repo) {
   if (repo === "fastify/fastify-cors") {
-    return "Fastify ecosystem";
+    return `Fastify official · ${stars} stars`;
   }
 
   if (stars >= 1000) {
