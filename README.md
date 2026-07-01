@@ -16,9 +16,9 @@
 
 <!-- OSS:START -->
 - [mem0](https://github.com/mem0ai/mem0/pull/5957) · 59.7k stars
-- [Presenton](https://github.com/presenton/presenton/pull/672) · 8.5k stars
-- [CubeSandbox](https://github.com/TencentCloud/CubeSandbox/pull/560) · 6.5k stars
-- [fastify-cors](https://github.com/fastify/fastify-cors/pull/410) · Fastify official · 491 stars
+- [Presenton](https://github.com/presenton/presenton/pull/672) · 8.6k stars
+- [CubeSandbox](https://github.com/TencentCloud/CubeSandbox/pull/560) · 6.6k stars
+- [fastify-cors](https://github.com/fastify/fastify-cors/pull/410) · Fastify official · 492 stars
 <!-- OSS:END -->
 
 <details>
