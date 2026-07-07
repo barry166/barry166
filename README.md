@@ -15,11 +15,11 @@
 近期已合并贡献：
 
 <!-- OSS:START -->
-- [mem0](https://github.com/mem0ai/mem0/pull/5957) · 60.1k stars
-- [goose](https://github.com/aaif-goose/goose/pull/10257) · 50.6k stars
-- [qwen-code](https://github.com/QwenLM/qwen-code/pull/6275) · 25.7k stars
+- [mem0](https://github.com/mem0ai/mem0/pull/5957) · 60.2k stars
+- [goose](https://github.com/aaif-goose/goose/pull/10257) · 50.7k stars
+- [qwen-code](https://github.com/QwenLM/qwen-code/pull/6275) · 25.8k stars
 - [Presenton](https://github.com/presenton/presenton/pull/672) · 8.9k stars
-- [CubeSandbox](https://github.com/TencentCloud/CubeSandbox/pull/560) · 7.3k stars
+- [CubeSandbox](https://github.com/TencentCloud/CubeSandbox/pull/560) · 7.9k stars
 - [fastmcp](https://github.com/punkpeye/fastmcp/pull/283) · 3.2k stars
 <!-- OSS:END -->
 
