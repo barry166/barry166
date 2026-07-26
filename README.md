@@ -17,7 +17,7 @@
 <!-- OSS:START -->
 - [mem0](https://github.com/mem0ai/mem0/pull/5957) · 61.6k stars
 - [goose](https://github.com/aaif-goose/goose/pull/10257) · 51.6k stars
-- [qwen-code](https://github.com/QwenLM/qwen-code/pull/7174) · 26.2k stars
+- [qwen-code](https://github.com/QwenLM/qwen-code/pull/7174) · 26.3k stars
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox/pull/560) · 10.6k stars
 - [Presenton](https://github.com/presenton/presenton/pull/672) · 9.1k stars
 - [fastmcp](https://github.com/punkpeye/fastmcp/pull/290) · 3.2k stars
