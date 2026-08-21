@@ -15,7 +15,7 @@
 近期已合并贡献：
 
 <!-- OSS:START -->
-- [mem0](https://github.com/mem0ai/mem0/pull/5957) · 63.6k stars
+- [mem0](https://github.com/mem0ai/mem0/pull/5957) · 63.7k stars
 - [astro](https://github.com/withastro/astro/pull/17515) · 61.8k stars
 - [goose](https://github.com/aaif-goose/goose/pull/10257) · 53k stars
 - [qwen-code](https://github.com/QwenLM/qwen-code/pull/7174) · 27.2k stars
