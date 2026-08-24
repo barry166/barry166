@@ -18,9 +18,9 @@
 - [svelte](https://github.com/sveltejs/svelte/pull/18477) · 87.9k stars
 - [mem0](https://github.com/mem0ai/mem0/pull/5957) · 63.8k stars
 - [astro](https://github.com/withastro/astro/pull/17515) · 61.9k stars
-- [goose](https://github.com/aaif-goose/goose/pull/10257) · 53.2k stars
-- [qwen-code](https://github.com/QwenLM/qwen-code/pull/7174) · 27.2k stars
-- [CubeSandbox](https://github.com/TencentCloud/CubeSandbox/pull/560) · 11.3k stars
+- [goose](https://github.com/aaif-goose/goose/pull/10257) · 53.3k stars
+- [pnpm](https://github.com/pnpm/pnpm/pull/14095) · 36.1k stars
+- [qwen-code](https://github.com/QwenLM/qwen-code/pull/7174) · 27.3k stars
 <!-- OSS:END -->
 
 <details>
