@@ -19,7 +19,7 @@
 - [svelte](https://github.com/sveltejs/svelte/pull/18477) · 88.1k stars
 - [mem0](https://github.com/mem0ai/mem0/pull/5957) · 65.9k stars
 - [astro](https://github.com/withastro/astro/pull/17515) · 62.7k stars
-- [goose](https://github.com/aaif-goose/goose/pull/10257) · 54.5k stars
+- [goose](https://github.com/aaif-goose/goose/pull/10257) · 54.6k stars
 - [pnpm](https://github.com/pnpm/pnpm/pull/14410) · 36.6k stars
 <!-- OSS:END -->
 
