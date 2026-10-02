@@ -15,9 +15,9 @@
 近期已合并贡献：
 
 <!-- OSS:START -->
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/69714) · 456.5k stars
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/69714) · 456.6k stars
 - [svelte](https://github.com/sveltejs/svelte/pull/18477) · 88.2k stars
-- [mem0](https://github.com/mem0ai/mem0/pull/5957) · 66.3k stars
+- [mem0](https://github.com/mem0ai/mem0/pull/5957) · 66.4k stars
 - [astro](https://github.com/withastro/astro/pull/17515) · 62.9k stars
 - [goose](https://github.com/aaif-goose/goose/pull/10257) · 54.8k stars
 - [pnpm](https://github.com/pnpm/pnpm/pull/14410) · 36.7k stars
