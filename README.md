@@ -15,12 +15,12 @@
 近期已合并贡献：
 
 <!-- OSS:START -->
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/69714) · 457.7k stars
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/69714) · 457.8k stars
 - [storybook](https://github.com/storybookjs/storybook/pull/36294) · 91.3k stars
 - [svelte](https://github.com/sveltejs/svelte/pull/18477) · 88.4k stars
 - [mem0](https://github.com/mem0ai/mem0/pull/5957) · 67.7k stars
 - [astro](https://github.com/withastro/astro/pull/17515) · 63.4k stars
-- [goose](https://github.com/aaif-goose/goose/pull/10257) · 55.5k stars
+- [goose](https://github.com/aaif-goose/goose/pull/10257) · 55.6k stars
 <!-- OSS:END -->
 
 <details>
