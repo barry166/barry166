@@ -17,10 +17,10 @@
 <!-- OSS:START -->
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/69714) · 459.3k stars
 - [storybook](https://github.com/storybookjs/storybook/pull/36294) · 91.6k stars
-- [svelte](https://github.com/sveltejs/svelte/pull/18477) · 89.6k stars
+- [svelte](https://github.com/sveltejs/svelte/pull/18477) · 89.8k stars
 - [mem0](https://github.com/mem0ai/mem0/pull/5957) · 69.2k stars
 - [astro](https://github.com/withastro/astro/pull/17515) · 64k stars
-- [goose](https://github.com/aaif-goose/goose/pull/10257) · 56.7k stars
+- [goose](https://github.com/aaif-goose/goose/pull/10257) · 56.8k stars
 <!-- OSS:END -->
 
 <details>
