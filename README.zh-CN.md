@@ -1,0 +1,26 @@
+# 你好，我是 Barry
+
+[English Version](./README.md)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=0969DA&width=560&lines=AI+Agent+Engineering;Developer+Tools;Frontend+%2F+Full-stack;Open+Source+Contributor)](https://git.io/typing-svg)
+
+前端 / AI 全栈工程师，探索 AI-first 开发、Vibe Coding、Agent 工程化与开源实践。
+
+[从零实现 Harness Agent](https://solkatt.me/)：Agent 工程化系列文章。
+
+[tiny-claw](https://github.com/barry166/tiny-claw)：极简 Python Agent Harness。
+
+[博客](https://solkatt.me/)：记录 AI 编程工作流、Agent 实践、前端工程化和开源贡献。
+
+## 开源贡献
+
+近期已合并贡献：
+
+<!-- OSS:START -->
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/69714) · 459.5k stars
+- [storybook](https://github.com/storybookjs/storybook/pull/36294) · 91.7k stars
+- [svelte](https://github.com/sveltejs/svelte/pull/18477) · 89.8k stars
+- [mem0](https://github.com/mem0ai/mem0/pull/5957) · 69.4k stars
+- [astro](https://github.com/withastro/astro/pull/17515) · 64.1k stars
+- [goose](https://github.com/aaif-goose/goose/pull/10257) · 56.9k stars
+<!-- OSS:END -->
