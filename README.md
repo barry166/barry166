@@ -21,6 +21,6 @@ Recent merged contributions:
 - [storybook](https://github.com/storybookjs/storybook/pull/36294) · 91.7k stars
 - [svelte](https://github.com/sveltejs/svelte/pull/18477) · 89.9k stars
 - [deer-flow](https://github.com/bytedance/deer-flow/pull/8618) · 85.8k stars
-- [mem0](https://github.com/mem0ai/mem0/pull/5957) · 69.4k stars
+- [mem0](https://github.com/mem0ai/mem0/pull/5957) · 69.5k stars
 - [astro](https://github.com/withastro/astro/pull/17515) · 64.2k stars
 <!-- OSS:END -->
